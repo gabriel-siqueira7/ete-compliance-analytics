@@ -6,7 +6,7 @@ Pipeline analítico em Python para auditoria automatizada de estações de trata
 
 ![Relatório Diagnóstico ETE - Página 1](docs/relatorio_pagina_1.png)
 
-![Relatório Diagnóstico ETE - Página 2](docs/relatorio_pagina_2.png)
+![Relatório Diagnóstico ETE - Página 2](docs/relatorio_pagina_2_v2.png)
 
 # Objetivo de Negócio
 
