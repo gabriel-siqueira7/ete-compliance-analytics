@@ -20,17 +20,9 @@ Muitas operações industriais mantêm planilhas de laudos laboratoriais apenas 
 
 O pipeline processa a série histórica de monitoramento e gera um **Relatório Diagnóstico Executivo de 2 Páginas** em alta resolução (PDF vetorial A4) pronto para apresentação à diretoria e fiscalização ambiental:
 
-## 📊 Entregável Executivo
+# Entregável Executivo
 
 O pipeline processa a série histórica de monitoramento e gera um **Relatório Diagnóstico Executivo de 2 Páginas** em alta resolução (PDF vetorial A4) pronto para apresentação à diretoria e fiscalização ambiental:
-
-<p align="center">
-  <img src="docs/relatorio_pagina_1.png" alt="Relatório Diagnóstico ETE - Página 1" width="700"/>
-</p>
-
-<p align="center">
-  <img src="docs/relatorio_pagina_2.png" alt="Relatório Diagnóstico ETE - Página 2" width="700"/>
-</p>
 
 - **Página 1:** Painel de KPIs de conformidade geral, tabela descritiva (mínimo, mediana, P90, máximo) e gráfico temporal afluente vs. efluente com eficiência de abatimento.
 - **Página 2:** Monitoramento fino de pH com limites operacionais, balanço de cargas e parecer técnico direcionado à redução de custos e mitigação de passivos.
